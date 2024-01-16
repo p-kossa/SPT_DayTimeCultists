@@ -1,7 +1,7 @@
 ﻿using System.Reflection;
 using Aki.Reflection.Patching;
 
-namespace Nooky.DayTimeCultists
+namespace DayTimeCultists
 {
     class CulitstSpawnPatch : ModulePatch
     {
