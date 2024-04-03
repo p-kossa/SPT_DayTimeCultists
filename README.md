@@ -1,6 +1,6 @@
 # SPT_DayTimeCultists
 
-SPT 3.7.1+ ONLY
+SPT 3.8.0 ONLY
 
 Farming Cultists giving you nightmares? Can't see anything in the dark? This is a simple client mod that allows cultists to spawn during any day time raid.
 
@@ -26,6 +26,6 @@ Well, if Cultists spawn during the day then it must be working!
 
 Other than that, if you look at your BepInEx logs as you load your game you should see this:
 ```
-[Info   :   BepInEx] Loading [DayTimeCultists 1.0.0]
+[Info   :   BepInEx] Loading [DayTimeCultists 1.1.0]
 [Info   :ModulePatch] Enabled patch CulitstSpawnPatch
 ```
