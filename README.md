@@ -1,6 +1,6 @@
 # SPT_DayTimeCultists
 
-SPT 3.8.0 ONLY
+SPT 3.9.x ONLY
 
 Farming Cultists giving you nightmares? Can't see anything in the dark? This is a simple client mod that allows cultists to spawn during any day time raid.
 
